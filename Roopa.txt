@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 90B5-1CBC
+
+ Directory of C:\Users\Roopa\Desktop\GitPractice
+
+09-01-2019  12:07    <DIR>          .
+09-01-2019  12:07    <DIR>          ..
+09-01-2019  12:07                 0 Roopa.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  342,861,783,040 bytes free
